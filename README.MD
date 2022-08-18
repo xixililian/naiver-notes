@@ -1,4 +1,6 @@
-# Notes, Ideas and Others. 笔记、想法及其他。
+Notes, Ideas and Others. 笔记、想法及其他。
+
+---
 
 ## vite 的 `npm init vue@latest` 命令的执行原理
 

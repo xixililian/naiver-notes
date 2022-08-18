@@ -1,0 +1,19 @@
+{
+  "name": "naiver-notes",
+  "version": "1.0.0",
+  "description": "notes, ideas and othres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:xixililian/naiver-notes.git"
+  },
+  "keywords": [
+    "notes",
+    "ideas"
+  ],
+  "author": "xixililian",
+  "license": "MIT"
+}
